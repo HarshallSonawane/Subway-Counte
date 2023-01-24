@@ -47,7 +47,7 @@ h2 {
     font-size: 17px;
    }
    
-   #increment-btn:hover {
+#increment-btn:hover {
     background: red;
     color: #ffffff;
     animation: squeeze3124 0.9s both;
@@ -90,7 +90,7 @@ h2 {
     }
    }
    
-   #save-btn {
+#save-btn {
     border: 1px solid black;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -113,7 +113,7 @@ h2 {
     font-size: 17px;
    }
    
-   #save-btn:hover {
+#save-btn:hover {
     background: green;
     color: #ffffff;
     animation: squeeze3124 0.9s both;
@@ -154,5 +154,5 @@ h2 {
      -webkit-transform: scale3d(1, 1, 1);
      transform: scale3d(1, 1, 1);
     }
-   }
+}
    
